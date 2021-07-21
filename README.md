@@ -15,6 +15,7 @@
     <td align="center"><a href="https://github.com/Kaintels"><img src="https://avatars.githubusercontent.com/u/38157496?s=460&u=701d6896714d3551c20e1f46c15079f8e6630784&v=4" width="100px;" alt=""/><br /><sub><b>Seungwoo Han</b></sub></a><br /><a href="https://github.com/Kaintels" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/lovedlim"><img src="https://avatars.githubusercontent.com/u/25129278?s=400&u=b0b5b71762434d2afc962add63ddb2a166d32dbe&v=4" width="100px;" alt=""/><br /><sub><b>Tae Heon Kim</b></sub></a><br /><a href="https://www.youtube.com/channel/UCs7pXreQXz30-ENLsnorqdA" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/stevekwon211"><img src="https://avatars.githubusercontent.com/u/61633137?s=400&u=fd514a668292884e640c15973976e0a0ec39fdbc&v=4" width="100px;" alt=""/><br /><sub><b>Steve Kwon</b></sub></a><br /><a href="https://velog.io/@kwonhl0211" title="Code">🏠</a></td>
+    <td align="center"><a href="https://github.com/sw-song"><img src="https://avatars.githubusercontent.com/u/49427979?s=400&v=4" width="100px;" alt=""/><br /><sub><b>SW Song</b></sub></a><br /><a href="https://www.linkedin.com/in/seungwonsong/" title="Code">🏠</a></td>
   </tr>
 </table>
 
@@ -300,6 +301,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [시퀀스 투 시퀀스 + 어텐션 모델 - 허민석님](https://youtu.be/WsQLdu2JMgI)
   * [Seq2Seq: Sequence to Sequence Learning with Neural Networks - 동빈나님](https://www.youtube.com/watch?v=4DzKM0vgG1Y)
   * [자연어 언어모델 "BERT"](https://www.youtube.com/watch?v=qlxrXX5uBoU&list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)
+  * [자연어 처리 특강 - 텐초](https://www.youtube.com/playlist?list=PLgD4RfwkG2A5fNsi7PyhWCiIz5zU2Q6Z0)
+    * 자연어 처리를 위한 딥러닝 알고리즘, 워드 임베딩(Word2Vec, TF-IDF), BERT, GPT
 
 * **음성인식 (Speech Recognition)** 
   * [딥러닝 기반 음성인식 기초 - T아카데미](https://www.youtube.com/watch?v=YiW7aOTZFQQ&list=PL9mhQYIlKEhdrYpsGk8X4qj3tQUuaDhrl)
@@ -366,6 +369,47 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [인공지능 분야 천상계 대한민국 단 4명 뿐인 캐글 그랜드 마스터 인터뷰](https://www.youtube.com/watch?v=tu6b3xbTj6M)
   * 이유한 님 인터뷰 with 조코딩님
 
+
+**Kaggle Tutorial | PyTorch Basic**
+* [Pytorch Tutorial for Deep Learning Lovers ,DATAI](https://www.kaggle.com/kanncaa1/pytorch-tutorial-for-deep-learning-lovers)
+  * 파이토치 기본 사용법(Tensor 연산)부터 선형회귀, 로지스틱회귀, ANN, CNN 까지
+* [Conditional Generative Adversarial Network ,Arpan Dhatt](https://www.kaggle.com/arpandhatt/conditional-generative-adversarial-network)
+  * CGAN(Conditional GAN) 구조 이해 및 MNIST 데이터를 활용한 모델링 실습
+* [Pytorch Animal Face Classification - CNNs, Mehmet -lauda- Tekman](https://www.kaggle.com/mehmetlaudatekman/pytorch-animal-face-classification-cnns)
+  * AFHQ(동물 얼굴 이미지)를 활용한 딥러닝 분류 모델링 실습
+* [Overview of Basic GAN Architecture - Seungwon Song](https://www.kaggle.com/songseungwon/overview-of-basic-gan-architecture)
+  * MNIST(1~9숫자데이터)를 활용한 딥러닝 이미지 생성기 구현
+* [Generate Fashion Images with Conditional GAN - Seungwon Song](https://www.kaggle.com/songseungwon/generate-fashion-images-with-conditional-gan)
+  * Fashion MNIST(그래픽 의류이미지)를 활용한 조건부(Conditional) 딥러닝 이미지 생성기 구현
+
+**Kaggle Tutorial | Image/Object Detection**
+* [[Train] SIIM COVID-19 Detection: 🔥FasterRCNN🔥 - Heroseo](https://www.kaggle.com/piantic/train-siim-covid-19-detection-fasterrcnn)
+  * 폐 X-ray를 통한 코로나 감지
+* [Yolo v3 Object Detection in Tensorflow - heartkilla](https://www.kaggle.com/aruchomu/yolo-v3-object-detection-in-tensorflow)
+  * Tensorflow, Yolo v3를 활용한 객체 탐지 솔루션
+* [SIIM COVID-19 Detection 🔱 10+Step Tutorial (1) - Seungwon Song](https://www.kaggle.com/songseungwon/siim-covid-19-detection-10-step-tutorial-1)
+  * 코로나 판별을 위한 Feature Engineering과 Image Detection
+
+**Kaggle Tutorial | Natural Language Processing**
+* [Beginner to Intermediate Natural Language Processing Guide - NowYSM](https://www.kaggle.com/ashishpatel26/beginner-to-intermediate-nlp-tutorial)
+  * sklearn + logistic Regression을 활용한 감성분석(긍/부정 표현 판별)
+* [Deep Learning NLP Quora Solutions - NowYSM](https://www.kaggle.com/ashishpatel26/deep-learning-nlp-quora-solutions)
+  * 딥러닝(Keras)을 활용한 악성(사회적으로 문제가 될 수 있는, 질이 나쁜) 질문 판별
+* [NLP Quick Start for Newbie😁 with 9steps - Seungwon Song](https://www.kaggle.com/songseungwon/nlp-quick-start-for-newbie-with-9steps)
+  * 재난 트위터를 활용한 가짜 뉴스 판별기 구현
+
+**Kaggle Tutorial | R Machine Learning**
+* [Getting staRted in R: First Steps - Rachael Tatman](https://www.kaggle.com/rtatman/getting-started-in-r-first-steps)
+  * r 기본 사용법 이해
+* [Getting staRted in R: Load Data Into R - Rachael Tatman](https://www.kaggle.com/rtatman/getting-started-in-r-load-data-into-r)
+  * r로 데이터를 다루는 방법
+* [Getting staRted in R: Summarize Data - Rachael Tatman](https://www.kaggle.com/rtatman/getting-started-in-r-summarize-data)
+  * `파이프(%>%)` 문법 이해, 데이터 집계 및 요약
+* [Getting staRted in R: Graphing Data - Rachael Tatman](https://www.kaggle.com/rtatman/getting-started-in-r-graphing-data/)
+  * `ggplot2` 라이브러리 사용법 및 시각화 기법 이해
+* [Welcome to Data Science in R - Rachael Tatman](https://www.kaggle.com/rtatman/welcome-to-data-science-in-r)
+  * `modelr` 라이브러리를 활용한 머신러닝, 의사결정트리 이해
+
 ### 강의 & 강연
 
 **정형데이터**
@@ -380,6 +424,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 **노트북**
 
 * [Feature Engineering Techniques - Chris Deotte](https://www.kaggle.com/c/ieee-fraud-detection/discussion/108575)
+
 
 
 ### 캐글 & 데이콘 대회 분류
@@ -545,6 +590,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 권철민님의 파이썬 머신러닝 완벽가이드 깃헙. 인프런에서 강의와 서적을 함께 보면 좋은 깃헙.
 * [Reinforcement Learning-2ndEdition by Sutton Exercise Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)
   - Reinforcement Learning 2nd Edition (Original Book by Richard S. Sutton,Andrew G. Barto) 풀이코드 깃헙.
+* [파이썬 딥러닝 텐서플로](https://github.com/lovedlim/tensorflow)
+  - 정보문화사에서 출판한 파이썬 딥러닝 텐서플로 (2021) 깃헙. 서적에 대한 예제 코드가 수록되어 있음.
+* [데이콘 경진대회 1등 솔루션](https://github.com/wikibook/dacon)
+  - 위키북스 - 데이콘 경진대회 1등 솔루션 서적의 예제 코드 깃헙.
 
 ## 웹사이트 (Web Sites)
 * [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
@@ -574,6 +623,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 논문 저장소. 인공지능, 프로그래밍 등 거의 모든 논문을 찾아볼 수 있다.
 * [arXiv sanity](https://arxiv.org/)
   - 일정 기간동안 원하는 주제에 대한 인기 있는 arXiv 논문을 볼 수 있다.
+* [PyTorch 입문코스 5개](https://docs.microsoft.com/en-us/learn/browse/?terms=pytorch)
+  - 마이크로소프트 Learn. 파이토치 기초, 파이토치를 사용한 이미지/자연어/오디오
 
 ## 위키독스 (Wiki Docs)
 
